@@ -18,4 +18,4 @@ Segunda fase do processo seletivo.
 
 **controllers/pessoasController.js:** Modulo de todas funções CRUD.
 
-**2fase/routes:** Traduz as requisições HTTP em funções do controller.
+**routes/pessoas.js:** Traduz as requisições HTTP em funções do controller.
