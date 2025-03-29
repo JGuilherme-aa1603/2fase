@@ -4,7 +4,7 @@ Segunda fase do processo seletivo
 
 ### O projeto possui:
 
-[x] Funcionalidade (os endpoints funcionam corretamente?)
+- [x] Funcionalidade (os endpoints funcionam corretamente?)
 
 [x]Organização e clareza do código
 
