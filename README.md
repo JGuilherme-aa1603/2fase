@@ -6,6 +6,6 @@ Segunda fase do processo seletivo
 
 - [x] Funcionalidade (os endpoints funcionam corretamente?)
 
-- [x]Organização e clareza do código
+- [x] Organização e clareza do código
 
-- [x]Boas práticas básicas (sem bugs óbvios, nomes claros, tratamento de erros simples)
+- [x] Boas práticas básicas (sem bugs óbvios, nomes claros, tratamento de erros simples)
